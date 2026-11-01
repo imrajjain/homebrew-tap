@@ -3,8 +3,8 @@
 #
 #   brew install --cask imrajjain/tap/shelf
 cask "shelf" do
-  version "0.2.1"
-  sha256 "77c0d0320ab6634aebeadb05bef7a249ae55fba654b847dd6cfab58709663669"
+  version "0.2.2"
+  sha256 "c8a9a2cdc982124ff9dd1ac5da7b03ea3b7ea0fc4583132150c88b12dc941c9b"
 
   url "https://github.com/imrajjain/my-home-shelf/releases/download/v#{version}/Shelf-#{version}.zip"
   name "Shelf"
